@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Get it focused",
+    "version": "0.0.1",
+    "description": "MAke the stream work",
+    "action:" {
+        "default_popup": "popup.html"
+    }
+}
